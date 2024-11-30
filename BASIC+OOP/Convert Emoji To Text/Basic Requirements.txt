@@ -1,0 +1,2 @@
+Basic Module Required:-
+demoji(py -m pip install demoji)

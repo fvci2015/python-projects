@@ -1,0 +1,9 @@
+#MODULES required
+py -m pip install pymysql
+
+
+#Basic Requirements
+-> 	Create table named 'students' which will have data of students such as their ID and name
+-> 	Create another table named 'attendance' which will take ID from 'students' table as foriegn key and mark their attendance
+
+-> 	Make a file named 'attendance_tracker.py' which will do the basics of a simple attendance tracker 

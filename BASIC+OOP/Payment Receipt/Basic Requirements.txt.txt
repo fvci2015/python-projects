@@ -1,0 +1,1 @@
+Use the concepts of OOP(classes,constructors,member methods) etc and create a simple payment receipt which will take information from the user such as 'Name of the customer','Total amount' and 'Payment Method' and display the receipt containing the following information

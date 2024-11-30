@@ -1,0 +1,6 @@
+#install the following libraries
+py -m pip install Image
+py -m pip install opencv-python
+py -m pip install qrcode
+
+Create and decode the qr code using the following libraries
